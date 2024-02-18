@@ -1,4 +1,4 @@
-# Lab-Project-1
+Lab-ProjectA
 git and vcs
 God is Good
 Jesus is Lord
